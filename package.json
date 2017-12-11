@@ -1,0 +1,13 @@
+{
+  "name": "qrcodes",
+  "version": "1.0.0",
+  "description": "Learning to read qr codes",
+  "main": "index.js",
+  "repository": "https://github.com/pete-wildberger/qrcodes.git",
+  "author": "Peter Wildberger <pete.wildberger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.2.28",
+    "qrcode-reader": "^1.0.4"
+  }
+}
