@@ -7,6 +7,8 @@
   "author": "Peter Wildberger <pete.wildberger@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
     "jimp": "^0.2.28",
     "qrcode-reader": "^1.0.4"
   }
